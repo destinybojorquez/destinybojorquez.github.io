@@ -1,27 +1,39 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>The Egg or The Chicken</title>
-</head>
-<body>
+## Welcome to GitHub Pages Nooo
 
-<h1>Answer:</h1>
-<p>What came first: </p>
-<p> The Egg?</p>
-<a href=“file:///Users/DM/Desktop/websites_art74/egg.htm”>Egg</a>
-<img src=/Users/DM/Desktop/websites_art74/ch_eg/instagram_egg.jpg
-style="width:128px;height:128px;">
+You can use the [editor on GitHub](https://github.com/destinybojorquez/destinybojorquez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-<p> The Chicken?
-<a href=“file:///Users/DM/Desktop/websites_art74/chicken.htm”>Chicken</a>
-<img src=/Users/DM/Desktop/websites_art74/ch_eg/hen.jpg
-style="width:128px;height:128px;">
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<p> Neither?
-<a href=“file:///Users/DM/Desktop/websites_art74/neither.htm”>Both</a>
-<img src=/Users/DM/Desktop/websites_art74/ch_eg/5a8f097f1e000017087ac8b2.jpg
-style="width:128px;height:128px;">
+### Markdown
 
-</body>
-</html>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/destinybojorquez/destinybojorquez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 
